@@ -15,7 +15,7 @@ import numpy as np
 X = np.random.randn(100,5)
 y = np.array([0]*33 + [1]*33 + [2] * 33 + [4])
 
-
+# test modif
 
 
 estimator = DummyClassifier()
